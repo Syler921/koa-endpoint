@@ -97,9 +97,5 @@
       "/dist/",
       "/coverage/"
     ]
-  },
-  "pre-commit": [
-    "lint",
-    "test"
-  ]
+  }
 }
