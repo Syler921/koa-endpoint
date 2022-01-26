@@ -25,6 +25,7 @@
 |:-------------------|:-----------------|:-----------------------------------------------------------------------------------------------|
 | `GET`              | `/`              | Simple welcome response                                                                        |
 | `GET`              | `/swagger`       | Swagger documentation                                                                                               |    
+| `POST`              | `/checkData`       | {firstName:"",lastName:"",email:""}                                                                                              |    
 
 ## Pre-reqs
 To build and run this app locally you will need:
